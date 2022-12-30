@@ -1,3 +1,9 @@
+/**********************************************************
+Correcteur: Yannick GOUGUIA
+Exercice incomplet, il faut terminer tous les exercices
+
+*********************************************************/
+
 5 + "34"
 // Prediction:534
 // Actual:534
