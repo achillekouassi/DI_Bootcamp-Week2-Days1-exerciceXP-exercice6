@@ -1,3 +1,10 @@
+/**
+   Correcteur: Yannick GOUGUIA
+
+   Je ne vois pas les autres exerices, merci de les completer
+*/
+
+
 5 + "34"
 // Prediction:534
 // Actual:534
